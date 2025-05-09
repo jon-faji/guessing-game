@@ -21,7 +21,7 @@ This is a simple Python-based number guessing game that uses sockets to allow cl
 
 ---
 
-## 🛠 How to Run
+##  How to Run
 
 ### Start the Server:
 ```bash
